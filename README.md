@@ -1,5 +1,7 @@
 # PA 4: The USILang Symbol Table
 
+Public template: https://github.com/chriswill91/cs379-pa04-usilang-symbol-table
+
 Due **Monday, September 21, 2026 at 11:59 PM**.
 
 ## Bring forward PA 2 and PA 3
